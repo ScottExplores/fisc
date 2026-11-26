@@ -1,0 +1,127 @@
+{
+  "taxYear": 2023,
+  "sourceName": "IRS Statistics of Income, Publication 1304, Table 1.1",
+  "sourceUrl": "https://www.irs.gov/pub/irs-soi/23in11si.xls",
+  "publicationUrl": "https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-returns-complete-report-publication-1304-basic-tables-part-1",
+  "retrievedAt": "2026-11-26",
+  "notes": "Sample estimates. Money amounts in the workbook are in thousands of dollars and are stored here in dollars. Total income tax is column 16. This is not the same file as Historic Table 2.",
+  "allReturns": 160602107,
+  "allAgi": 15286017359000,
+  "allIncomeTax": 2147909818000,
+  "brackets": [
+    {
+      "label": "No adjusted gross income",
+      "returns": 2180146,
+      "agi": -144194936000,
+      "incomeTax": 114270000
+    },
+    {
+      "label": "$1 under $5,000",
+      "returns": 7357751,
+      "agi": 17450063000,
+      "incomeTax": 15081000
+    },
+    {
+      "label": "$5,000 under $10,000",
+      "returns": 8077917,
+      "agi": 60949546000,
+      "incomeTax": 42411000
+    },
+    {
+      "label": "$10,000 under $15,000",
+      "returns": 8986005,
+      "agi": 112353814000,
+      "incomeTax": 88533000
+    },
+    {
+      "label": "$15,000 under $20,000",
+      "returns": 8702094,
+      "agi": 151828408000,
+      "incomeTax": 1317468000
+    },
+    {
+      "label": "$20,000 under $25,000",
+      "returns": 7925999,
+      "agi": 178000708000,
+      "incomeTax": 3257177000
+    },
+    {
+      "label": "$25,000 under $30,000",
+      "returns": 7594157,
+      "agi": 208919443000,
+      "incomeTax": 5552159000
+    },
+    {
+      "label": "$30,000 under $40,000",
+      "returns": 15210266,
+      "agi": 531782365000,
+      "incomeTax": 19428590000
+    },
+    {
+      "label": "$40,000 under $50,000",
+      "returns": 13519034,
+      "agi": 606242938000,
+      "incomeTax": 29591551000
+    },
+    {
+      "label": "$50,000 under $75,000",
+      "returns": 24135884,
+      "agi": 1485510450000,
+      "incomeTax": 96759453000
+    },
+    {
+      "label": "$75,000 under $100,000",
+      "returns": 15775468,
+      "agi": 1366616429000,
+      "incomeTax": 114197559000
+    },
+    {
+      "label": "$100,000 under $200,000",
+      "returns": 27602755,
+      "agi": 3818295141000,
+      "incomeTax": 409532689000
+    },
+    {
+      "label": "$200,000 under $500,000",
+      "returns": 10955818,
+      "agi": 3153877437000,
+      "incomeTax": 513407398000
+    },
+    {
+      "label": "$500,000 under $1,000,000",
+      "returns": 1779720,
+      "agi": 1194934962000,
+      "incomeTax": 273875800000
+    },
+    {
+      "label": "$1,000,000 under $1,500,000",
+      "returns": 368931,
+      "agi": 443658405000,
+      "incomeTax": 115740460000
+    },
+    {
+      "label": "$1,500,000 under $2,000,000",
+      "returns": 147290,
+      "agi": 252903399000,
+      "incomeTax": 69021581000
+    },
+    {
+      "label": "$2,000,000 under $5,000,000",
+      "returns": 203229,
+      "agi": 602653109000,
+      "incomeTax": 168461033000
+    },
+    {
+      "label": "$5,000,000 under $10,000,000",
+      "returns": 49262,
+      "agi": 336334760000,
+      "incomeTax": 94042477000
+    },
+    {
+      "label": "$10,000,000 or more",
+      "returns": 30382,
+      "agi": 907900917000,
+      "incomeTax": 233464129000
+    }
+  ]
+}
